@@ -16,7 +16,7 @@ if 'selected_topic' not in st.session_state:
 
 gemini_api_key = st.secrets['gemini_API']
 
-ai.configure(api_key='gemini_api_key')
+ai.configure(api_key=gemini_api_key)
 
 models = ['models/gemini-1.5-flash-001-tuning','models/gemini-2.0-flash-exp']
 
