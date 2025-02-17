@@ -22,3 +22,6 @@ Many AI tools try to do everything but end up spreading themselves too thin. **P
 - **Exclusive LLM Option:** Unlock a delightful hidden twist available only when using the LLM mode.
 - **Efficient and Reliable:** Keeps your study sessions on track by avoiding irrelevant responses.
 - **User-Centric Design:** Built with precision to be the perfect study buddy for developers, researchers, and lifelong learners.
+
+## Reference
+- [Google - Generativeai](https://pypi.org/project/google-generativeai/)
